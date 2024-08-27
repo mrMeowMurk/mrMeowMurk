@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="600" height="250"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxncXd1dTV3Y3liOGYxOXIwOG44MTI2YXRwNXB1anpwa2FkaWxxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="250"/>
 </div>
 
 ### :woman_technologist: About Me :
