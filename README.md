@@ -21,6 +21,6 @@
 <div id="welcome" align="center">
   <h1>
     hey there
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdrNnR0eng1ZHpyZDZtNWZpNTA0NGd1aHdjOGo3bGNlNnExbzhjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/xxPqL4BBV3o46xWT9l/giphy.gif" width="50px"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwcm1ia3lkZHQ2c251aXJ3MDBldzRyeTA3cXE0amxjNmxuYzMzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="50px"/>
   </h1>
 </div>
