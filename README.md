@@ -20,5 +20,5 @@
 
 <div id="welcome" align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdrNnR0eng1ZHpyZDZtNWZpNTA0NGd1aHdjOGo3bGNlNnExbzhjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/xxPqL4BBV3o46xWT9l/giphy.gif" width="30px"/>
 </div>
