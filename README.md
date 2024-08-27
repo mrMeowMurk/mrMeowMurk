@@ -4,10 +4,10 @@
 
 <div id="badges" align="center">
   <a href="https://vk.com/mrmeowmurk">
-    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VKontakte badge"/>
+    <img src="https://img.shields.io/badge/VKontakte-white?style=for-the-badge&logo=Vk&logoColor=black&color=white" alt="VKontakte badge"/>
   </a>
   <a href="https://web.telegram.org/k/#@mrMeowMurk">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=blue" alt="Telegram badge"/>
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=black&color=white" alt="Telegram badge"/>
   </a>
   <a href="https://steamcommunity.com/id/sidorovi4ok/">
     <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam&logoColor=black&color=white" alt="Steam badge"/>
