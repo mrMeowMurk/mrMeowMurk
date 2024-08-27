@@ -15,5 +15,5 @@
 </div>
 
 <div id="whatchers" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=your-github-Sidorovi4ok&style=flat-square&color=blue" alt="" width="50"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=your-github-Sidorovi4ok&style=flat-square&color=blue" alt="" width="150"/>
 </div>
