@@ -18,7 +18,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=your-github-Sidorovi4ok&style=flat-square&color=blue" alt="" width="125"/>
 </div>
 
-<h1 align="center>
+<div id="welcome" align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
