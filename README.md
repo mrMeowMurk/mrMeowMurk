@@ -60,7 +60,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sidorovi4ok&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidorovi4ok&layout=compact&theme=tokyonight&card_width=500&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidorovi4ok&layout=compact&theme=tokyonight&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
     
 
