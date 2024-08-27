@@ -26,7 +26,7 @@
   </h1>
 </div>
 
-<div align="center" radius="15">
+<div align="center" border-radius="15">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
