@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=blue" alt="Telegram badge"/>
   </a>
   <a href="https://steamcommunity.com/id/sidorovi4ok/">
-    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam&logoColor=white&color=black" alt="Steam badge"/>
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam&logoColor=black&color=white" alt="Steam badge"/>
   </a>
 </div>
 
