@@ -6,16 +6,21 @@
   <a href="https://vk.com/mrmeowmurk">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VKontakte badge"/>
   </a>
-  <a href="">
-    <img src="" alt=""/>
+  <a href="https://web.telegram.org/k/#@mrMeowMurk">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=blue" alt="Telegram badge"/>
   </a>
-  <a href="">
-    <img src="" alt=""/>
+  <a href="https://steamcommunity.com/id/sidorovi4ok/">
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam&logoColor=white&color=black" alt="Steam badge"/>
   </a>
 </div>
 
+<h1>
+  Hi there 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## Hi there 👋
+
+
 
 <!--
 **Sidorovi4ok/Sidorovi4ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
