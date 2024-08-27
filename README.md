@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
 ### :woman_technologist: About Me :
@@ -37,9 +37,6 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I'm studying something new.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
-
 
 ---
 
@@ -58,6 +55,9 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
 
 
 
