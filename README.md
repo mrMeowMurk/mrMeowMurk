@@ -13,11 +13,7 @@
     <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam&logoColor=white&color=black" alt="Steam badge"/>
   </a>
 </div>
-
-<h1>
-  Hi there 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img src="https://komarev.com/ghpvc/?username=your-github-Sidorovi4ok&style=flat-square&color=blue" alt=""/>
 
 
 
