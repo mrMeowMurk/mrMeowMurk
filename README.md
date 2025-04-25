@@ -14,19 +14,19 @@
   <a href="https://vk.com/mrmeowmurk">
     <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="VKontakte badge"/>
   </a>
-  <a href="https://steamcommunity.com/id/sidorovi4ok/">
+  <a href="https://steamcommunity.com/id/mrMeowMurk/">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Steam badge"/>
   </a>
-  <a href="https://github.com/Sidorovi4ok">
+  <a href="https://github.com/mrMeowMurk">
     <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="GitHub badge"/>
   </a>
-  <a href="https://leetcode.com/Sidorovi4ok">
+  <a href="https://leetcode.com/mrMeowMurk">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="LeetCode badge"/>
   </a>
 </div>
 
 <div id="watchers" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Sidorovi4ok&style=flat-square&color=7AA2F7&labelColor=1A1B26" alt="Profile Views" width="125"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=mrMeowMurk&style=flat-square&color=7AA2F7&labelColor=1A1B26" alt="Profile Views" width="125"/>
 </div>
 
 <div id="welcome" align="center">
@@ -88,7 +88,7 @@
   <a href="https://vk.com/mrmeowmurk">
     <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="VKontakte"/>
   </a>
-  <a href="https://steamcommunity.com/id/sidorovi4ok/">
+  <a href="https://steamcommunity.com/id/mrMeowMurk/">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Steam"/>
   </a>
   <a href="mailto:your.email@example.com">
@@ -152,15 +152,15 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sidorovi4ok&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrMeowMurk&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidorovi4ok&layout=compact&theme=tokyonight&card_width=500" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrMeowMurk&layout=compact&theme=tokyonight&card_width=500" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidorovi4ok&show_icons=true&theme=tokyonight&card_width=500" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrMeowMurk&show_icons=true&theme=tokyonight&card_width=500" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidorovi4ok&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrMeowMurk&theme=tokyo-night" alt="GitHub Activity Graph"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidorovi4ok&theme=tokyonight&no-frame=true&column=8&margin-w=15" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrMeowMurk&theme=tokyonight&no-frame=true&column=8&margin-w=15" alt="GitHub Trophy"/>
 </div>
 
 
@@ -172,11 +172,11 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <a href="https://github.com/Sidorovi4ok/AssistentBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=AssistentBot&theme=tokyonight" />
+  <a href="https://github.com/mrMeowMurk/AssistentBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=AssistentBot&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Sidorovi4ok/Telegraph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=Telegraph&theme=tokyonight" />
+  <a href="https://github.com/mrMeowMurk/Telegraph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=Telegraph&theme=tokyonight" />
   </a>
 </div>
 
@@ -315,7 +315,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidorovi4ok&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrMeowMurk&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
@@ -325,11 +325,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNqaGJ4am5ycTBiNjlsejJsbzRrZzJweTVvOHhqN3psOGRvd21wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/leAqvqXDM5ST6yurMX/giphy.gif" width="200">
   <p><em>Спасибо за посещение моего профиля! </em></p>
   <p>
-    <a href="https://github.com/Sidorovi4ok?tab=followers">
-      <img src="https://img.shields.io/github/followers/Sidorovi4ok?label=Followers&style=social&color=7AA2F7" alt="GitHub Followers"/>
+    <a href="https://github.com/mrMeowMurk?tab=followers">
+      <img src="https://img.shields.io/github/followers/mrMeowMurk?label=Followers&style=social&color=7AA2F7" alt="GitHub Followers"/>
     </a>
-    <a href="https://github.com/Sidorovi4ok">
-      <img src="https://img.shields.io/github/stars/Sidorovi4ok?label=Stars&style=social&color=7AA2F7" alt="GitHub Stars"/>
+    <a href="https://github.com/mrMeowMurk">
+      <img src="https://img.shields.io/github/stars/mrMeowMurk?label=Stars&style=social&color=7AA2F7" alt="GitHub Stars"/>
     </a>
   </p>
 </div>
