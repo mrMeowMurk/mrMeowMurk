@@ -169,12 +169,15 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <a href="https://github.com/Sidorovi4ok/AssistentBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=AssistentBot&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sidorovi4ok/Telegraph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=Telegraph&theme=tokyonight" />
-  </a>
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <a href="https://github.com/Sidorovi4ok/AssistentBot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=AssistentBot&theme=tokyonight" />
+    </a>
+    <br>
+    <a href="https://github.com/Sidorovi4ok/Telegraph">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=Telegraph&theme=tokyonight" />
+    </a>
+  </div>
 </div>
 
 🚧 Больше проектов в разработке...
