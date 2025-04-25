@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlZ3c2emF2OWFtMjlibGZ2ZHRnanR3Mm1mbzF3bG1idzIzZHk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="250"/>
   <h3>🚀 Разработчик | Создатель | Исследователь</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Frontend+Developer;Backend+Developer;Mobile+Developer;Always+learning+new+things" alt="Typing SVG" />
   <div align="center">
