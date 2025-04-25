@@ -262,21 +262,21 @@
         <div align="center">
           <img src="https://img.shields.io/badge/Steve%20Jobs-1A1B26?style=for-the-badge&logo=apple&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Steve Jobs"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" height="175" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" height="150" width="300"/>
         </div>
       </td>
       <td>
         <div align="center">
           <img src="https://img.shields.io/badge/Cory%20House-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Cory House"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" height="175" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" height="150" width="300"/>
         </div>
       </td>
       <td>
         <div align="center">
           <img src="https://img.shields.io/badge/John%20Johnson-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="John Johnson"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote" height="175" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote" height="150" width="300"/>
         </div>
       </td>
     </tr>
