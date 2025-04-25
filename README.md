@@ -23,31 +23,26 @@
   <a href="https://leetcode.com/Sidorovi4ok">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="LeetCode badge"/>
   </a>
-  <a href="https://codewars.com/users/Sidorovi4ok">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Codewars badge"/>
-  </a>
 </div>
 
 <div id="watchers" align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Sidorovi4ok&style=flat-square&color=7AA2F7&labelColor=1A1B26" alt="Profile Views" width="125"/>
-  <img src="https://img.shields.io/github/followers/Sidorovi4ok?label=Followers&style=social&color=7AA2F7&labelColor=1A1B26" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Sidorovi4ok?label=Stars&style=social&color=7AA2F7&labelColor=1A1B26" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2F%3Fusername%3DSidorovi4ok&color=7AA2F7&labelColor=1A1B26" alt="LeetCode Ranking"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Codewars&query=rank.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FSidorovi4ok&color=7AA2F7&labelColor=1A1B26" alt="Codewars Rank"/>
 </div>
 
 <div id="welcome" align="center">
   <h1>
-    Привет, я Sidorovi4ok! 👋
-    <img src="https://media.giphy.com/media/LnQjpWaON8nX21WWUc/giphy.gif" width="60px"/>
+    Привет, я MeowMurk!
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwcm1ia3lkZHQ2c251aXJ3MDBldzRyeTA3cXE0amxjNmxuYzMzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="60px"/>
   </h1>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
   </div>
 </div>
 
+
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM5eDk2NjNwc2tzdmxvMnV1dnVkcHNydHUxMDhodHZ2dzVobjh5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ZYA31R5OP6JdmVP3f/giphy.gif" width="680" height="340"/>
 </div>
 
 ---
@@ -257,13 +252,6 @@
 
 ---
 
-### 🎮 Текущая игра
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover=1&theme=tokyonight&show_offline=true&background=1A1B26&interchange=false&bar_color=7AA2F7&bar_color_cover=false" />
-</div>
-
 ### 📚 Текущие книги и статьи
 
 <div align="center">
@@ -283,11 +271,33 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
 </div>
 
-> "The only way to do great work is to love what you do." - Steve Jobs
-> 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-> 
-> "First, solve the problem. Then, write the code." - John Johnson
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Steve%20Jobs-1A1B26?style=for-the-badge&logo=apple&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Steve Jobs"/>
+          <br/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" height="175" width="350"/>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Cory%20House-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Cory House"/>
+          <br/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" height="175" width="350"/>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/John%20Johnson-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="John Johnson"/>
+          <br/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote" height="175" width="350"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🎯 Текущие задачи
 
@@ -325,8 +335,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nX21WWUc/giphy.gif" width="60">
-  <p><em>Спасибо за посещение моего профиля! 😊</em></p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNqaGJ4am5ycTBiNjlsejJsbzRrZzJweTVvOHhqN3psOGRvd21wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/leAqvqXDM5ST6yurMX/giphy.gif" width="200">
+  <p><em>Спасибо за посещение моего профиля! </em></p>
   <p>
     <a href="https://github.com/Sidorovi4ok?tab=followers">
       <img src="https://img.shields.io/github/followers/Sidorovi4ok?label=Followers&style=social&color=7AA2F7" alt="GitHub Followers"/>
