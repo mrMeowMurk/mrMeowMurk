@@ -160,8 +160,14 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidorovi4ok&theme=tokyo-night" alt="GitHub Activity Graph"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidorovi4ok&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="GitHub Trophy"/>
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sidorovi4ok&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="GitHub Trophy"/>
+  </div>
 </div>
+
+
+
 
 ---
 
