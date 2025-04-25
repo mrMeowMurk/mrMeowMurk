@@ -169,10 +169,10 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <a href="https://github.com/Sidorovi4ok/project1">
+  <a href="https://github.com/Sidorovi4ok/AssistentBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Sidorovi4ok/project2">
+  <a href="https://github.com/Sidorovi4ok/Telegraph">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidorovi4ok&repo=project2&theme=tokyonight" />
   </a>
 </div>
