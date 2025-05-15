@@ -140,15 +140,27 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrMeowMurk&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrMeowMurk&layout=compact&theme=tokyonight&card_width=500" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrMeowMurk&show_icons=true&theme=tokyonight&card_width=500" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrMeowMurk&theme=tokyo-night" alt="GitHub Activity Graph"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mrMeowMurk&theme=tokyonight&no-frame=true&column=9&margin-w=15" alt="GitHub Trophy"/>
+
+  <!-- Первая строка: Streak и Top Langs -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1rem 0;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mrMeowMurk&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=495&hide_border=true" alt="Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrMeowMurk&layout=compact&theme=tokyonight&card_width=495&hide_border=true" alt="Top Langs"/>
+  </div>
+
+  <!-- Вторая строка: Stats -->
+  <div style="margin: 1rem 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrMeowMurk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats"/>
+  </div>
+
+  <!-- Activity Graph -->
+  <div style="margin: 1rem 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrMeowMurk&theme=tokyo-night&hide_border=true" alt="Activity"/>
+  </div>
+
+  <!-- Трофеи -->
+  <div style="margin: 1rem 0;">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrMeowMurk&theme=tokyonight&no-frame=true&column=9&margin-w=15" alt="Trophies"/>
+  </div>
 </div>
 
 ---
