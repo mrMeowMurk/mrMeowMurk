@@ -139,55 +139,16 @@
 ### 📊 Статистика GitHub
 
 <div align="center">
-  <!-- Первая строка: Основная статистика -->
-  <table>
-    <tr>
-      <!-- Левый блок -->
-      <td valign="top">
-        <h3>📊 GitHub Statistics</h3>
-        <table>
-          <tr><td>393</td><td>Total Contributions</td></tr>
-          <tr><td>11</td><td>Current Streak</td></tr>
-          <tr><td>11</td><td>Longest Streak</td></tr>
-        </table>
-      </td>
-
-      <!-- Правый блок -->
-      <td valign="top">
-        <h3>🚀 Most Used Languages</h3>
-        <ul style="list-style: none; padding-left: 0;">
-          <li>Python 31.08%</li>
-          <li>JavaScript 17.86%</li>
-          <li>C++ 16.10%</li>
-          <li>CSS 11.19%</li>
-          <li>C 6.51%</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Вторая строка: Дополнительная статистика -->
-  <table>
-    <tr>
-      <td colspan="2">
-        <h3>⭐ Dmitriy Kononenko's Stats</h3>
-        <table>
-          <tr>
-            <td>Total Stars Earned:</td>
-            <td><strong>0</strong></td>
-            <td style="padding-left: 20px;">Total Commits:</td>
-            <td><strong>350</strong></td>
-          </tr>
-          <tr>
-            <td>Total PRs:</td>
-            <td><strong>0</strong></td>
-            <td style="padding-left: 20px;">Total Issues:</td>
-            <td><strong>0</strong></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrMeowMurk&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrMeowMurk&layout=compact&theme=tokyonight&card_width=500" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrMeowMurk&show_icons=true&theme=tokyonight&card_width=500" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrMeowMurk&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrMeowMurk&theme=tokyonight&no-frame=true&column=9&margin-w=15" alt="GitHub Trophy"/>
 </div>
 
 ---
