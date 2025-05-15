@@ -214,21 +214,21 @@
         <div align="center">
           <img src="https://img.shields.io/badge/Forrest%20Gump-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Forrest Gump"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Жизнь%20как%20коробка%20шоколадных%20конфет.%20Никогда%20не%20знаешь,%20что%20тебе%20попадется.&author=Forrest%Gump" alt="Quote" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Жизнь%20как%20коробка%20шоколадных%20конфет.%20Никогда%20не%20знаешь,%20что%20тебе%20попадется.&author=Forrest%Gump" alt="Quote"/>
         </div>
       </td>
       <td>
         <div align="center">
           <img src="https://img.shields.io/badge/Harper%20Lee-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Harper Lee"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Настоящая%20храбрость%20-%20это%20когда%20ты%20заранее%20знаешь,%20что%20проиграл,%20и%20все%20равно%20берешься%20за%20дело.&author=Harper%20Lee" alt="Quote" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Настоящая%20храбрость%20-%20это%20когда%20ты%20заранее%20знаешь,%20что%20проиграл,%20и%20все%20равно%20берешься%20за%20дело.&author=Harper%20Lee" alt="Quote"/>
         </div>
       </td>
       <td>
         <div align="center">
           <img src="https://img.shields.io/badge/Ray%20Bradbury-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="John Johnson"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Не%20пытайся%20стать%20лучше%20других.%20Стань%2C%20лучше%20себя%20вчерашнего.&author=Ray%20Bradbury" alt="Quote" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Не%20пытайся%20стать%20лучше%20других.%20Стань%2C%20лучше%20себя%20вчерашнего.&author=Ray%20Bradbury" alt="Quote"/>
         </div>
       </td>
     </tr>
