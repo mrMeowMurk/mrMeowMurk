@@ -50,11 +50,11 @@
 
 ---
 
-### 🎯 О себе
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=header"/>
 </div>
+
+### 🎯 О себе
 
 Я Junior Developer из России, увлеченный созданием современных веб, десктоп и дркгих приложений и изучением новых технологий. 
 
@@ -98,10 +98,6 @@
 ---
 
 ### 🛠 Технологический стек
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=divider"/>
-</div>
 
 #### Frontend Development
 <div align="center">
@@ -186,10 +182,6 @@
 
 ### 🌟 Достижения
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=divider" />
-</div>
-
 - 🏆 Успешно завершенные проекты
 - 🎯 Постоянное развитие и обучение
 - 🌟 Помощь другим разработчикам
@@ -197,10 +189,6 @@
 - 🎨 Создание UI/UX дизайнов
 
 ### 📈 Цели на 2025
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-</div>
 
 - [ ] Совершать карьерные шаги
 - [ ] Углубиться в алгоритмы и структуры данных
@@ -212,20 +200,12 @@
 
 ### 📚 Текущие книги и статьи
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-</div>
-
 - [ ] 📖 "Чистый код" by Robert C. Martin
 - [ ] 📖 "Шаблоны проектирования" by Gang of Four
 - [ ] 📖 "Программист-прагматик" by Andrew Hunt
 - [ ] 📰 "Грокаем алгоритмы" by Aditya Bhargava
 
 ### 💭 Любимые цитаты
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-</div>
 
 <div align="center">
   <table>
@@ -256,10 +236,6 @@
 </div>
 
 ### 🎯 Текущие задачи
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-</div>
 
 - [ ] Завершить интересные проекты
 - [ ] Изучить Docker
