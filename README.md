@@ -20,8 +20,11 @@
   <a href="https://github.com/mrMeowMurk">
     <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="GitHub badge"/>
   </a>
-  <a href="https://leetcode.com/mrMeowMurk">
+  <a href="https://leetcode.com/u/sidorovi4ok/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="LeetCode badge"/>
+  </a>
+    <a href="https://codeforces.com/profile/limon4ikdk">
+    <img src="https://img.shields.io/badge/Codeforces-FFA116?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Codeforces badge"/>
   </a>
 </div>
 
@@ -50,33 +53,26 @@
 ### 🎯 О себе
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=header"/>
 </div>
 
-Я Junior Developer из России, увлеченный созданием современных веб-приложений и изучением новых технологий. 
+Я Junior Developer из России, увлеченный созданием современных веб, десктоп и дркгих приложений и изучением новых технологий. 
 
-- 💻 Работаю Software Engineer'ом, разрабатываю как frontend, так и backend части веб-приложений
 - 🌱 Постоянно изучаю новые технологии и улучшаю свои навыки
 - 📝 Интересуюсь техническим писательством
-- 🎮 В свободное время люблю играть в игры и изучать что-то новое
+- 🎮 В свободное время люблю играть в игры, читать и изучать что-то новое
 - 🤝 Всегда открыт для новых проектов и сотрудничества
 - 🎯 Цель: Стать Full-Stack Developer и создавать инновационные решения
 
 ### 🎨 Мои интересы
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-</div>
-
-- 🎮 Геймдев и разработка игр
-- 🤖 Искусственный интеллект и машинное обучение
 - 🌐 Веб-разработка и современные фреймворки
 - 📱 Мобильная разработка
-- 🔒 Кибербезопасность
+- 🖥️ Десктоп приложение 
 - 🎨 UI/UX дизайн
 - 🌍 Open Source проекты
-- 🎵 Музыка и звуковой дизайн
 - 📸 Фотография и видеомонтаж
+- ⚰️ Попытки в моделирование 
 
 ### 📫 Как со мной связаться:
 
@@ -91,13 +87,10 @@
   <a href="https://steamcommunity.com/id/mrMeowMurk/">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Steam"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:limon4ikdk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Email"/>
   </a>
-  <a href="https://t.me/mrMeowMurk">
-    <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Telegram Channel"/>
-  </a>
-  <a href="https://discord.gg/your-discord">
+  <a href="https://discord.gg/mrmeowmurk">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Discord"/>
   </a>
 </div>
@@ -107,43 +100,42 @@
 ### 🛠 Технологический стек
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=divider"/>
 </div>
 
 #### Frontend Development
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 </div>
 
 #### Backend Development
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
 </div>
 
 #### Mobile & Desktop Development
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React-native" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>&nbsp;
 </div>
 
 #### Tools & Others
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
 </div>
 
 ---
@@ -160,7 +152,7 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrMeowMurk&theme=tokyo-night" alt="GitHub Activity Graph"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mrMeowMurk&theme=tokyonight&no-frame=true&column=8&margin-w=15" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrMeowMurk&theme=tokyonight&no-frame=true&column=9&margin-w=15" alt="GitHub Trophy"/>
 </div>
 
 
@@ -172,70 +164,49 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <a href="https://github.com/mrMeowMurk/AssistentBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=AssistentBot&theme=tokyonight" />
-  </a>
   <a href="https://github.com/mrMeowMurk/Telegraph">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=Telegraph&theme=tokyonight" />
   </a>
+  <a href="https://github.com/mrMeowMurk/WavPlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=WavPlayer&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mrMeowMurk/AssistentBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=AssistentBot&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mrMeowMurk/YouTune">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=YouTune&theme=tokyonight" />
+  </a>
 </div>
 
-🚧 Больше проектов в разработке...
+<div align="center">
+  🚧 Больше интересных проектов в разработке...
+</div>
 
 ---
 
 ### 🌟 Достижения
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=divider" />
 </div>
 
 - 🏆 Успешно завершенные проекты
-- 📚 Активное участие в open-source сообществе
 - 🎯 Постоянное развитие и обучение
 - 🌟 Помощь другим разработчикам
-- 🎓 Успешное обучение новым технологиям
 - 🏅 Участие в хакатонах
-- 📝 Технические статьи и публикации
 - 🎨 Создание UI/UX дизайнов
-- 🎮 Разработка игровых проектов
-- 🌐 Создание веб-приложений
 
-### 📈 Цели на 2024
+### 📈 Цели на 2025
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
 </div>
 
-- [ ] Изучить React Native
+- [ ] Совершать карьерные шаги
+- [ ] Углубиться в алгоритмы и структуры данных
 - [ ] Освоить Docker и Kubernetes
-- [ ] Создать собственный open-source проект
-- [ ] Внести вклад в популярные open-source проекты
-- [ ] Получить сертификацию по веб-разработке
-- [ ] Запустить свой блог о разработке
-- [ ] Выучить новый язык программирования
-- [ ] Участвовать в больше количестве open-source проектов
-- [ ] Создать мобильное приложение
-- [ ] Освоить 3D моделирование
-- [ ] Изучить геймдев
-- [ ] Получить опыт в DevOps
-
-### 📚 Текущие курсы и обучение
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-</div>
-
-- [ ] Advanced React Patterns
-- [ ] System Design
-- [ ] Machine Learning Basics
-- [ ] Advanced TypeScript
-- [ ] Cloud Architecture
-- [ ] Game Development
-- [ ] 3D Modeling
-- [ ] UI/UX Design
-- [ ] DevOps Practices
-- [ ] Cybersecurity
+- [ ] Углубиться в паттерны проектирования
+- [ ] Совершенстоваться
 
 ---
 
@@ -245,12 +216,10 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
 </div>
 
-- 📖 "Clean Code" by Robert C. Martin
-- 📖 "Design Patterns" by Gang of Four
-- 📖 "The Pragmatic Programmer" by Andrew Hunt
-- 📰 "The State of JavaScript 2023"
-- 📰 "The Future of Web Development"
-- 📰 "Understanding TypeScript"
+- [ ] 📖 "Чистый код" by Robert C. Martin
+- [ ] 📖 "Шаблоны проектирования" by Gang of Four
+- [ ] 📖 "Программист-прагматик" by Andrew Hunt
+- [ ] 📰 "Грокаем алгоритмы" by Aditya Bhargava
 
 ### 💭 Любимые цитаты
 
@@ -263,23 +232,23 @@
     <tr>
       <td>
         <div align="center">
-          <img src="https://img.shields.io/badge/Steve%20Jobs-1A1B26?style=for-the-badge&logo=apple&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Steve Jobs"/>
+          <img src="https://img.shields.io/badge/Forrest%20Gump-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Forrest Gump"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" height="175" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Жизнь%20как%20коробка%20шоколадных%20конфет.%20Никогда%20не%20знаешь,%20что%20тебе%20попадется.&author=Forrest%Gump" alt="Quote" height="200" width="350"/>
         </div>
       </td>
       <td>
         <div align="center">
-          <img src="https://img.shields.io/badge/Cory%20House-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Cory House"/>
+          <img src="https://img.shields.io/badge/Harper%20Lee-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="Harper Lee"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" height="175" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Настоящая%20храбрость%20-%20это%20когда%20ты%20заранее%20знаешь,%20что%20проиграл,%20и%20все%20равно%20берешься%20за%20дело.&author=Harper%20Lee" alt="Quote" height="200" width="350"/>
         </div>
       </td>
       <td>
         <div align="center">
-          <img src="https://img.shields.io/badge/John%20Johnson-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="John Johnson"/>
+          <img src="https://img.shields.io/badge/Ray%20Bradbury-1A1B26?style=for-the-badge&logo=code&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="John Johnson"/>
           <br/>
-          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote" height="175" width="350"/>
+          <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Не%20пытайся%20стать%20лучше%20других.%20Стань%2C%20лучше%20себя%20вчерашнего.&author=Ray%20Bradbury" alt="Quote" height="200" width="350"/>
         </div>
       </td>
     </tr>
@@ -292,24 +261,10 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
 </div>
 
-- [ ] Завершить проект на React
+- [ ] Завершить интересные проекты
 - [ ] Изучить Docker
-- [ ] Написать статью о TypeScript
-- [ ] Создать open-source проект
-- [ ] Пройти курс по Machine Learning
+- [ ] Повысить навыки в разработке мобильных приложений
 - [ ] Улучшить навыки в UI/UX дизайне
-
-### 🏆 Достижения в играх
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-</div>
-
-- 🎮 100% достижений в Dark Souls
-- 🎮 Легендарный ранг в CS:GO
-- 🎮 Мастер в League of Legends
-- 🎮 Платиновый трофей в God of War
-- 🎮 1000+ часов в Minecraft
 
 ### 📊 GitHub Activity
 
