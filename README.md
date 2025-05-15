@@ -235,16 +235,6 @@
   </table>
 </div>
 
-
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrMeowMurk&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</div>
-
 ---
 
 <div align="center">
