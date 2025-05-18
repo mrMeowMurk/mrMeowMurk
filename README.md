@@ -160,11 +160,17 @@
   <a href="https://github.com/mrMeowMurk/WavPlayer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=WavPlayer&theme=tokyonight" />
   </a>
+  <a href="https://github.com/mrMeowMurk/MeowShare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=MeowShare&theme=tokyonight" />
+  </a>
   <a href="https://github.com/mrMeowMurk/AssistentBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=AssistentBot&theme=tokyonight" />
   </a>
   <a href="https://github.com/mrMeowMurk/YouTune">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=YouTune&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mrMeowMurk/PixelProgress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrMeowMurk&repo=PixelProgress&theme=tokyonight" />
   </a>
 </div>
 
