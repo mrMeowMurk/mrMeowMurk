@@ -14,11 +14,8 @@
   <a href="https://vk.com/mrmeowmurk">
     <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="VKontakte badge"/>
   </a>
-  <a href="https://steamcommunity.com/id/mrMeowMurk/">
-    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Steam badge"/>
-  </a>
-  <a href="https://github.com/mrMeowMurk">
-    <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1A1B26&color=7AA2F7" alt="GitHub badge"/>
+  <a href="https://discordapp.com/users/407492534844129281/">
+    <img src="https://img.shields.io/badge/Discord-171a21?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Discord badge"/>
   </a>
   <a href="https://leetcode.com/u/sidorovi4ok/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="LeetCode badge"/>
