@@ -69,29 +69,8 @@
 - 🎨 UI/UX дизайн
 - 🌍 Open Source проекты
 - 📸 Фотография и видеомонтаж
-- ⚰️ Попытки в моделирование 
-
-### 📫 Как со мной связаться:
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7AA2F7&height=1&section=divider"/>
-  <a href="https://web.telegram.org/k/#@mrMeowMurk">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Telegram"/>
-  </a>
-  <a href="https://vk.com/mrmeowmurk">
-    <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="VKontakte"/>
-  </a>
-  <a href="https://steamcommunity.com/id/mrMeowMurk/">
-    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Steam"/>
-  </a>
-  <a href="mailto:limon4ikdk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Email"/>
-  </a>
-  <a href="https://discord.gg/mrmeowmurk">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1B26&color=7AA2F7" alt="Discord"/>
-  </a>
-</div>
-
+- ⚰️ Попытки в моделирование
+  
 ---
 
 ### 🛠 Технологический стек
